@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.csv
+*.xlsx
+.dbt/
+target/
+dbt_packages/
+logs/
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
