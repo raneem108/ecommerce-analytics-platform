@@ -10,13 +10,13 @@ A production-grade analytics platform that transforms raw e-commerce data into a
 
 
 
-\## 🔴 Live Demo
+\## Live Demo
 
 \[Dashboard →](https://ecommerce-analytics-raneem.streamlit.app)
 
 
 
-\## 📊 What This Project Does
+\## What This Project Does
 
 
 
@@ -32,7 +32,7 @@ This platform answers real business questions:
 
 
 
-\## 🏗️ Architecture
+\##  Architecture
 Raw Data (CSV)
 
 ↓
@@ -57,7 +57,7 @@ Streamlit Dashboard (Live)
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 
 
@@ -79,7 +79,7 @@ Streamlit Dashboard (Live)
 
 
 
-\## 📈 Key Results
+\## Key Results
 
 
 
@@ -99,7 +99,7 @@ Streamlit Dashboard (Live)
 
 
 
-\## 💼 Business Insights Discovered
+\##  Business Insights Discovered
 
 
 
