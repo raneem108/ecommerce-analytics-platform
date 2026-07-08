@@ -10,10 +10,6 @@ A production-grade analytics platform that transforms raw e-commerce data into a
 
 
 
-\## Live Demo
-
-\[Dashboard →](https://ecommerce-analytics-raneem.streamlit.app)
-
 
 
 \## What This Project Does
